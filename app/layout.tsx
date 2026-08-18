@@ -13,17 +13,16 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ivanpetrov.dev"),
-  title: "Иван Петров — Frontend / Fullstack Developer",
-  description: "Разработка быстрых, красивых и функциональных цифровых продуктов.",
+  title: "xxvii — цифровые продукты для бизнеса",
+  description: "Назир создаёт лендинги, сайты компаний, презентации и CRM-системы, которые помогают бизнесу получать больше клиентов и продаж.",
   openGraph: {
-    title: "Иван Петров — Frontend / Fullstack Developer",
-    description: "Цифровые продукты, которые работают.",
+    title: "xxvii — не просто сайт, а система для бизнеса",
+    description: "Лендинги, сайты компаний, презентации и CRM-системы с фокусом на результат.",
     type: "website",
     locale: "ru_RU",
-    images: [{ url: "/og.png", width: 1536, height: 1024, alt: "Портфолио Ивана Петрова" }],
+    images: [{ url: "/og-xxvii.png", width: 1536, height: 1024, alt: "xxvii — цифровые продукты для бизнеса" }],
   },
-  twitter: { card: "summary_large_image", title: "Иван Петров — Frontend / Fullstack Developer", description: "Цифровые продукты, которые работают.", images: ["/og.png"] },
+  twitter: { card: "summary_large_image", title: "xxvii — цифровые продукты для бизнеса", description: "Сайты и системы с фокусом на результат.", images: ["/og-xxvii.png"] },
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
