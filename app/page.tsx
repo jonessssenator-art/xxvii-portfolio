@@ -152,7 +152,7 @@ function Contact() {
 }
 
 function Footer() {
-  return <><footer><a className="brand" href="#home">xxvii<span>°</span></a><p>Назир · Астрахань · Digital products for business</p><a href="#home">Наверх ↑</a></footer><div className="xx-colophon"><span>Колофон</span><span>Астрахань · 2026 · шрифты Geist, Geist Mono</span><span>Дизайн и разработка — <a href="https://t.me/xxviiexe" target="_blank" rel="noopener" aria-label="Написать xxvii в Telegram">xxvii</a></span></div></>;
+  return <><footer><a className="brand" href="#home">xxvii<span>°</span></a><p>Назир · Астрахань · Digital products for business</p><a href="#home">Наверх ↑</a></footer><div className="xx-colophon"><span>Дизайн и разработка — <a href="https://t.me/xxviiexe" target="_blank" rel="noopener" aria-label="Написать xxvii в Telegram">xxvii</a></span></div></>;
 }
 
 export default function Home() {
